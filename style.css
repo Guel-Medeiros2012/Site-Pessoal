@@ -1,0 +1,56 @@
+body {
+    text-align:center;
+  }
+  
+  .titulo {
+    font-size:50px;
+    color: #688455;
+    font-family: 'Comic Neue', cursive; 
+  }
+  
+  .subtitulo {
+    font-family: 'Comic Neue', cursive;
+    color:#203610;
+    
+  }
+  
+  .menu
+  {
+  position: fixed;
+  background: whitesmoke;
+  width:100%;
+  margin-top: 0px;
+  top:0px;
+  z-index: 10;
+  }
+  
+  .links{
+  display: inline;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: 'Comic Neue', cursive;
+  font-size: 25px;
+  }
+  
+  .text {
+    font-family: 'Comic Neue', cursive;
+    font-size: 30px;
+  }
+  
+   .infotitulo{
+  font-family: 'Comic Neue', cursive;
+   font-size: 35px;
+    
+  }
+  
+  #icon {
+    width:45px;
+    height:45px;
+  
+  }
+  
+  .photo {
+     width:500px;
+    height:350px;
+  }
+  
